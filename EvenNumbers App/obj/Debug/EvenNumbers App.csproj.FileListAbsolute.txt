@@ -1,0 +1,6 @@
+c:\users\josh\documents\visual studio 2013\Projects\EvenNumbers App\EvenNumbers App\bin\Debug\EvenNumbers App.exe.config
+c:\users\josh\documents\visual studio 2013\Projects\EvenNumbers App\EvenNumbers App\bin\Debug\EvenNumbers App.exe
+c:\users\josh\documents\visual studio 2013\Projects\EvenNumbers App\EvenNumbers App\bin\Debug\EvenNumbers App.pdb
+c:\users\josh\documents\visual studio 2013\Projects\EvenNumbers App\EvenNumbers App\obj\Debug\EvenNumbers App.exe
+c:\users\josh\documents\visual studio 2013\Projects\EvenNumbers App\EvenNumbers App\obj\Debug\EvenNumbers App.pdb
+c:\users\josh\documents\visual studio 2013\Projects\EvenNumbers App\EvenNumbers App\obj\Debug\EvenNumbers App.csprojResolveAssemblyReference.cache
